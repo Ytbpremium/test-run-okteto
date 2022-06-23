@@ -761,7 +761,7 @@ exports.welcome = () =>{
 ├ 𝖠𝗌𝗄𝗈𝗍 :
 ├❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 anj jangan seenaknya aja ~
 ├❒ Contac Owner-Bot : https://wa.me/qr/SUNC3IUN5XCQI1
-╰❒ Tik Tod : https://tiktok.com/@talosmodders `
+╰❒ Tik Tod : https://tiktok.com/@talosmodderz`
 }
 exports.leave = () =>{
 	return`Yah si beban out awokawok🗿
